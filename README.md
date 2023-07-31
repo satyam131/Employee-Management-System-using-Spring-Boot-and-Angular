@@ -28,11 +28,11 @@ The Employee Management System is a comprehensive web-based application that pro
 
 HOW TO CLONE :-
 ===============
-STEP 1 :- Clone the project.
-STEP 2 :- Setup backend springboot project in eclipse(as per use)
-STEP 3 :- Setup frontend angular application in VS Code (as per use)
-STEP 4 :- rum command on terminal to install node_modules folder -> npm i
-STEP 5 :- Then run project using -> ng serve
+STEP 1 :- Clone the project. </br>
+STEP 2 :- Setup backend springboot project in eclipse(as per use)  </br>
+STEP 3 :- Setup frontend angular application in VS Code (as per use)  </br>
+STEP 4 :- rum command on terminal to install node_modules folder -> npm i   </br>
+STEP 5 :- Then run project using -> ng serve   </br>
 
 TECHNOLOGY USED :-
 ==================
